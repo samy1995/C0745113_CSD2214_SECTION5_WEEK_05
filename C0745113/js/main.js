@@ -7,7 +7,7 @@ function myFunction(a , b){
 function arrays() {
 
     var pens;
-    pens = ["Red", "Blue", "Green","Gray","Maroon","Orange","Black"];
+    pens = ["Red", "Blue", "Green","Gray","Maroon","Orange","Black","White"];
     console.log(pens);
     for (i = 0; i < pens.length; i++) {
         alert(pens[i]);
